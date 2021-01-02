@@ -2,7 +2,7 @@
 
 ## Steps
 
-#### git clone https://github.com/Rashmi-278/purple-landing.git
+#### git clone https://github.com/Rashmi-278/purple-landing
 #### cd purple-landing
 #### npm install
 #### npm run build
