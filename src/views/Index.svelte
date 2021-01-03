@@ -1,6 +1,3 @@
-
-
-
 <html lang="en">
 
     <head>
@@ -107,6 +104,9 @@
                     <h1>What is
                       Inari ?
                     </h1>
+                    <div class="image-holder">
+                    <img alt="logo" src="https://ethgrounds.s3.eu-west-2.amazonaws.com/What+is+Inari.png">
+                  </div>
                 </div>
                 
                 <h4>Inari is a crowdfunding platform that helps small businesses and artists to create DAO's and fundraise. Inari was designed to fix major issues that traditional crowdfunding platforms experience. With Inari you can fund a project from anywhere, recieve shares in the form of tokens and vote on important decisions. </h4>
@@ -137,7 +137,7 @@
                     <h1> Fundraising
                    </h1>
                    <div class="image-holder">
-                    <img alt="Fundraising" src="https://images.unsplash.com/photo-1521780171415-783b1cb576e7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80">
+                    <img alt="Fundraising" src="https://images.unsplash.com/photo-1502920514313-52581002a659?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=2847&q=80">
                   </div>
                 </div>
                 
@@ -153,7 +153,7 @@
                     <h1> Why a DAO ?
                    </h1>
                    <div class="image-holder">
-                    <img alt="DAO" src="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1933&q=80">
+                    <img alt="DAO" src="https://images.unsplash.com/photo-1573164574572-cb89e39749b4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80">
                   </div>
                 </div>
                 

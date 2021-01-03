@@ -12410,8 +12410,7 @@ fieldset[disabled] .btn-link.active {
 
 .footer {
   padding: 50px 0;
-  border-top: 2px solid #1C2A5C;
-  background: radial-gradient(ellipse at bottom, #292D61 30%, #171941 80%);
+  background: #71BEA9;
 
 }
 
@@ -12432,7 +12431,7 @@ fieldset[disabled] .btn-link.active {
 }
 
 .footer .nav-link {
-  color: #ffffff;
+  color: #000000;
   padding: 10px 0;
   font-size: 0.75rem;
   text-transform: uppercase;
@@ -13686,7 +13685,6 @@ img {
   padding: 0.9375rem;
   width: 100%;
   z-index: 1050;
-  background: #e14eca;
 }
 
 .navbar .photo {
@@ -14338,7 +14336,7 @@ textarea {
 .card h5,
 .card h6,
 .card p {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255);
 }
 
 h1,
@@ -14348,7 +14346,7 @@ h4,
 h5,
 h6 {
   font-weight: 400;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255);
 }
 
 a {
@@ -14412,7 +14410,7 @@ h6,
 }
 
 p {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255);
   margin-bottom: 5px;
 }
 
@@ -14424,7 +14422,7 @@ p.description {
   margin-top: 30px;
   margin-bottom: 25px;
   font-weight: 600;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255);
 }
 
 .title.title-up {
@@ -14452,7 +14450,7 @@ p.description {
 .card-category {
   text-transform: capitalize;
   font-weight: 400;
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255);
   font-size: 0.75rem;
 }
 
@@ -14493,12 +14491,12 @@ p.description {
 }
 
 .blockquote.blockquote-white {
-  border-color: rgba(255, 255, 255, 0.8);
+  border-color: rgba(255, 255, 255);
   color: #ffffff;
 }
 
 .blockquote.blockquote-white small {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255);
 }
 
 ul li,
@@ -14507,7 +14505,7 @@ ol li {
 }
 
 pre {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255);
 }
 
 hr {
