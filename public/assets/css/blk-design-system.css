@@ -106,7 +106,7 @@ body {
   line-height: 1.5;
   color: #525f7f;
   text-align: left;
-  background-color: #FF4500;
+  background-color: #C93D26 ;
 }
 
 [tabindex="-1"]:focus {
@@ -205,14 +205,14 @@ sup {
 }
 
 a {
-  color: #e14eca;
+  color: #C93D26;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
 
 a:hover {
-  color: #c221a9;
+  color: #C93D26;
   text-decoration: none;
 }
 
@@ -12411,7 +12411,8 @@ fieldset[disabled] .btn-link.active {
 .footer {
   padding: 50px 0;
   border-top: 2px solid #1C2A5C;
-  background: radial-gradient(ellipse at bottom, #020203 30%, #37373a 80%);
+  background: radial-gradient(ellipse at bottom, #292D61 30%, #171941 80%);
+
 }
 
 .footer [class*="container-"] {
@@ -13992,6 +13993,7 @@ img {
   }
   .navbar.bg-white:not(.navbar-transparent) .navbar-toggler-bar {
     background-color: #344675;
+    
   }
   .navbar .navbar-brand {
     margin-left: 20px;
@@ -17337,7 +17339,7 @@ textarea.form-control:active {
 }
 
 .info .icon {
-  color: #344675;
+  color: #F4CE75;
 }
 
 .info .icon>i {

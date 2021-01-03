@@ -83,24 +83,90 @@
       <!-- End Navbar -->
       <div class="wrapper">
         <div class="page-header header-filter">
-          <div class="squares square1"></div>
+           <div class="squares square1"></div>
           <div class="squares square2"></div>
           <div class="squares square3"></div>
           <div class="squares square4"></div>
           <div class="squares square5"></div>
           <div class="squares square6"></div>
-          <div class="squares square7"></div>
+          <div class="squares square7"></div> 
           <div class="container">
             <div class="content-center brand">
-              <h1 style="font-size: 6vh; text-align: center;">Inari</h1>
+              <img alt="logo" src="assets/img/clean.png">
+              <h1 style="font-size: 6vh; text-align: center;">Inari</h1> 
           <h3 style="font-size: 2.8vh; text-align: center;">Inari is a way to fund projects that traditional capital never would.</h3>
           <h6>Coming Soon</h6>
             </div>
           </div>
         </div>
-        <div class="main">
-          
-          
+          <div class="main">
+            <div id="what" class="section">
+              <div class="container">
+                <div class="title">
+                  <hr class="line-info">
+                    <h1>What is
+                      Inari ?
+                    </h1>
+                </div>
+                
+                <h4>Inari is a crowdfunding platform that helps small businesses and artists to create DAO's and fundraise. Inari was designed to fix major issues that traditional crowdfunding platforms experience. With Inari you can fund a project from anywhere, recieve shares in the form of tokens and vote on important decisions. </h4>
+                
+              </div>
+            </div>
+            
+            <div id="join" class="section">
+              <div class="container">
+                <div class="title">
+                  <hr>
+                    <h1> Who can join ?
+                   </h1>
+                   <div class="image-holder">
+                    <img alt="logo" src="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1933&q=80">
+                  </div>
+                </div>
+                
+                <h4>Anyone. Anyone from over 190 countries, regardless of nationaility can create their own organisation and governance token fundraise and build a community. </h4>
+                
+              </div>
+            </div>
+
+            <div id="fundraising" class="section">
+              <div class="container">
+                <div class="title">
+                  <hr class="line-info">
+                    <h1> Fundraising
+                   </h1>
+                   <div class="image-holder">
+                    <img alt="Fundraising" src="https://images.unsplash.com/photo-1521780171415-783b1cb576e7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80">
+                  </div>
+                </div>
+                
+                <h4>When you fundraise with Inari, you invest in a project and recieve tokens from a fixed pool. These tokens are shares in a DAO that allow you to vote on import decisions relating the project. The token value is generated from business revenue from sales of the project product or service. </h4>
+                
+              </div>
+            </div>
+
+            <div class="section">
+              <div class="container">
+                <div class="title">
+                  <hr class="line-info">
+                    <h1> Why a DAO ?
+                   </h1>
+                   <div class="image-holder">
+                    <img alt="DAO" src="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1933&q=80">
+                  </div>
+                </div>
+                
+                <h4>A DAO solves issues that traditional crowdfunding platforms face, it allows you to generate capital and have members of the DAO vote based on the percentage of shares they hold. </h4>
+                
+              </div>
+            </div>
+            <h2 style="font-size: 4vh; text-align: center;">Stay updated with us</h2> 
+
+            <h3 style="font-size: 2.8vh;  text-align: center;">Follow us on Twitter and Join our community on Discord / Telegram.</h3>
+          <br>
+          <br>
+          <br>
         </div>
         <footer class="footer">
           <div class="container">
