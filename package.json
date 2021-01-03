@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "homepage": "",
   "description": "ethgrounds",
-  "repository": "https://github.com/creativetimofficial/notus-svelte",
+  "repository": "https://github.com/Rashmi-278/purple-landing.git init",
   "license": "MIT",
   "scripts": {
     "build": "rollup -c",

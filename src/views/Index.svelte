@@ -9,7 +9,7 @@
       <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/apple-icon.png">
       <link rel="icon" type="image/png" href="./assets/img/favicon.png">
       <title>
-        EthGrounds
+        Inari
       </title>
       <!--     Fonts and icons     -->
       <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,600,700,800" rel="stylesheet" />
@@ -28,7 +28,7 @@
         <div class="container">
           <div class="navbar-translate">
             <a class="navbar-brand" href="https://demos.creative-tim.com/blk-design-system/index.html" rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom" target="_blank">
-              <span>EthGrounds</span>
+              <span>Inari</span>
             </a>
             <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-bar bar1"></span>
@@ -41,7 +41,7 @@
               <div class="row">
                 <div class="col-6 collapse-brand">
                   <a href="ethgrounds.com">
-                    EthGrounds
+                    Inari
                   </a>
                 </div>
                 <div class="col-6 collapse-close text-right">
@@ -53,13 +53,13 @@
             </div>
             <ul class="navbar-nav">
               <li class="nav-item p-0">
-                <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com/EthGrounds" target="_blank">
+                <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com/InariDAO" target="_blank">
                   <i class="fab fa-twitter"></i>
                   <p class="d-lg-none d-xl-none">Twitter</p>
                 </a>
               </li>
               <li class="nav-item p-0">
-                <a class="nav-link" rel="tooltip" title="Like us on Facebook" data-placement="bottom" href="https://t.me/ethgrounds" target="_blank">
+                <a class="nav-link" rel="tooltip" title="Like us on Facebook" data-placement="bottom" href="https://t.me/InariDAO" target="_blank">
                   <i class="fab fa-telegram "></i>
                   <p class="d-lg-none d-xl-none">Telegram</p>
                 </a>
@@ -92,8 +92,8 @@
           <div class="squares square7"></div>
           <div class="container">
             <div class="content-center brand">
-              <h1 style="font-size: 6vh; text-align: center;">EthGrounds</h1>
-          <h3 style="font-size: 2.8vh; text-align: center;">EthGrounds is a way to fund projects that traditional capital never would.</h3>
+              <h1 style="font-size: 6vh; text-align: center;">Inari</h1>
+          <h3 style="font-size: 2.8vh; text-align: center;">Inari is a way to fund projects that traditional capital never would.</h3>
           <h6>Coming Soon</h6>
             </div>
           </div>
@@ -106,7 +106,7 @@
           <div class="container">
             <div class="row">
               <div class="col-md-3">
-                <h1 class="title">EthGrounds</h1>
+                <h1 class="title">Inari</h1>
               </div>
               <div class="col-md-3">
                
@@ -117,10 +117,10 @@
               <div class="col-md-3">
                 <h3 class="title">Follow us:</h3>
                 <div class="btn-wrapper profile">
-                  <a target="_blank" href="https://twitter.com/EthGrounds" class="btn btn-icon btn-neutral btn-round btn-simple" data-toggle="tooltip" data-original-title="Follow us on Twitter">
+                  <a target="_blank" href="https://twitter.com/InariDAO" class="btn btn-icon btn-neutral btn-round btn-simple" data-toggle="tooltip" data-original-title="Follow us on Twitter">
                     <i class="fab fa-twitter"></i>
                   </a>
-                  <a target="_blank" href="https://t.me/ethgrounds" class="btn btn-icon btn-neutral btn-round btn-simple" data-toggle="tooltip" data-original-title="Join us on Telegram">
+                  <a target="_blank" href="https://t.me/InariDAO" class="btn btn-icon btn-neutral btn-round btn-simple" data-toggle="tooltip" data-original-title="Join us on Telegram">
                     <i class="fab fa-telegram"></i>
                   </a>
                   <a target="_blank" href="https://discord.gg/znrEDDQca8" class="btn btn-icon btn-neutral  btn-round btn-simple" data-toggle="tooltip" data-original-title="Join us on Discord">
