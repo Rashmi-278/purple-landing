@@ -14256,7 +14256,7 @@ img {
     left: 0;
     top: 0;
     margin: 0.7rem;
-    background: #1f2251;
+    background:gray;
     border-radius: 0.2857rem;
     padding: 1.4rem;
   }
@@ -14350,7 +14350,7 @@ h6 {
 }
 
 a {
-  color: #ba54f5;
+  color: white;
   font-weight: 300;
 }
 
