@@ -91,7 +91,7 @@
             <div class="content-center brand">
               <img alt="logo" src="assets/img/clean.png">
               <h1 style="font-size: 6vh; text-align: center;">Inari</h1> 
-          <h3 style="font-size: 2.8vh; text-align: center;">Inari is a way to fund projects that traditional capital never would.</h3>
+          <h3 style="font-size: 2.8vh; text-align: center;">Inari DAO is a way to fund projects that traditional capital never would.</h3>
           <h6>Coming Soon</h6>
             </div>
           </div>
@@ -117,9 +117,9 @@
             <div id="join" class="section">
               <div class="container">
                 <div class="title">
-                  <hr>
-                    <h1> Who can join ?
-                   </h1>
+                  <hr class="line-info">
+                    <h1>Who can join ?
+                    </h1>
                    <div class="image-holder">
                     <img alt="logo" src="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1933&q=80">
                   </div>
