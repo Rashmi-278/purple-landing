@@ -3,6 +3,8 @@ import resolve from "@rollup/plugin-node-resolve";
 import commonjs from "@rollup/plugin-commonjs";
 import livereload from "rollup-plugin-livereload";
 import { terser } from "rollup-plugin-terser";
+import { imageOptimizer } from 'svelte-responsive-images'
+
 // library that helps you import in svelte with
 // absolute paths, instead of
 // import Component  from "../../../../components/Component.svelte";
@@ -17,7 +19,7 @@ const aliases = alias({
   resolve: [".svelte", ".js"], //optional, by default this will just look for .js files or folders
   entries: [
     { find: "components", replacement: "src/components" },
-    { find: "views", replacement: "src/views" },
+    // { find: "views", replacement: "src/views" },
     { find: "assets", replacement: "src/assets" },
   ],
 });
@@ -95,6 +97,8 @@ export default {
     // we will be able to say
     // import Component from "components/Component.svelte";
     aliases,
+    imageOptimizer(),
+
   ],
   watch: {
     clearScreen: false,
