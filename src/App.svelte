@@ -10,8 +10,7 @@
       </title>
       <!--     Fonts and icons     -->
       <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
-      <!-- Nucleo Icons -->
-      <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+    
       <!-- CSS Files -->
       <link href="./assets/css/blk-design-system.css?v=1.0.0" rel="stylesheet" />
       <!-- CSS Just for demo purpose, don't include it in your project -->
@@ -206,11 +205,5 @@
     <!--   Core JS Files   -->
       
    
-    <svelte:head>
-        <script src="./assets/js/core/jquery.min.js" type="text/javascript"></script>
-        <script src="./assets/js/core/popper.min.js" type="text/javascript"></script>
-        <script src="./assets/js/core/bootstrap.min.js" type="text/javascript"></script>
-      
-        <script src="./assets/js/blk-design-system.min.js?v=1.0.0" type="text/javascript"></script>
-</svelte:head>
+
 
